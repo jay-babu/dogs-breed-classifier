@@ -1,0 +1,1922 @@
+<!DOCTYPE html>
+<html lang="en" class="cw-desktop">
+
+    <head>
+
+        <title>Pet Food, Products, Supplies at Low Prices - Free Shipping | Chewy.com</title>
+        <meta name="apple-mobile-web-app-title" content="Chewy.com">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="description" content="Shop Chewy for the best pet supplies ranging from pet food, toys and treats to litter, aquariums, and pet supplements plus so much more! If you have a pet-or soon will-you&#39;ve come to the right place. Shop for all of your pet needs at Chewy&#39;s online pet store. FREE shipping on orders $49+, low prices and the BEST customer service!" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="preload" href="/assets/fonts/roboto/Roboto-Regular-webfont.woff" as="font" type="font/woff">
+        <link rel="stylesheet" type="text/css" href="/assets/css/main.d6f55c8a9ad07886f4af.css">
+        <script>
+    !function(e){function r(r){for(var n,c,f=r[0],u=r[1],b=r[2],d=0,l=[];d<f.length;d++)c=f[d],a[c]&&l.push(a[c][0]),a[c]=0;for(n in u)Object.prototype.hasOwnProperty.call(u,n)&&(e[n]=u[n]);for(i&&i(r);l.length;)l.shift()();return o.push.apply(o,b||[]),t()}function t(){for(var e,r=0;r<o.length;r++){for(var t=o[r],n=!0,f=1;f<t.length;f++){var u=t[f];0!==a[u]&&(n=!1)}n&&(o.splice(r--,1),e=c(c.s=t[0]))}return e}var n={},a={0:0},o=[];function c(r){if(n[r])return n[r].exports;var t=n[r]={i:r,l:!1,exports:{}};return e[r].call(t.exports,t,t.exports,c),t.l=!0,t.exports}c.e=function(e){var r=[],t=a[e];if(0!==t)if(t)r.push(t[2]);else{var n=new Promise(function(r,n){t=a[e]=[r,n]});r.push(t[2]=n);var o,f=document.createElement("script");f.charset="utf-8",f.timeout=120,c.nc&&f.setAttribute("nonce",c.nc),f.src=function(e){return c.p+""+({1:"vendors"}[e]||e)+"."+{1:"73321fb5eaf7ecc71805",2:"4f25580c155367b2afb5",3:"93fa48b16f4bc76224c1",4:"0a4c3c317a6a3babab61",5:"d374b53185c3f629594c",86:"a167e298d81fa3e1a36b",87:"a1ab1f8a9a7bcc6ded9b",88:"e730f4eae29f03fff42c",89:"b6291e3120767d05e8b9",90:"2ec9c7380496af984762",91:"0f52d41cbfa9950ae66e",92:"74cfdae20a203c8de0dd",93:"9f14691b1cf5b314b3e8",94:"ba71f1784be845b96b74",95:"f542454d40e81583ba06",96:"b73b9c131ae3e80c608c",97:"b391174f2a1f2123cd75",98:"1d673b69cbfc161a27b6",99:"828a3625e3ec79b63b04",100:"c042c5c6166ef5cb2fa2",101:"b4f0222a561539047c48",102:"a374decae1edb442b169",103:"48bd0713ead2bb534c00",104:"ee42d51a469a0127df7b",105:"5d003044de298ebc3e9c"}[e]+".packaged.js"}(e),o=function(r){f.onerror=f.onload=null,clearTimeout(u);var t=a[e];if(0!==t){if(t){var n=r&&("load"===r.type?"missing":r.type),o=r&&r.target&&r.target.src,c=new Error("Loading chunk "+e+" failed.\n("+n+": "+o+")");c.type=n,c.request=o,t[1](c)}a[e]=void 0}};var u=setTimeout(function(){o({type:"timeout",target:f})},12e4);f.onerror=f.onload=o,document.head.appendChild(f)}return Promise.all(r)},c.m=e,c.c=n,c.d=function(e,r,t){c.o(e,r)||Object.defineProperty(e,r,{enumerable:!0,get:t})},c.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},c.t=function(e,r){if(1&r&&(e=c(e)),8&r)return e;if(4&r&&"object"==typeof e&&e&&e.__esModule)return e;var t=Object.create(null);if(c.r(t),Object.defineProperty(t,"default",{enumerable:!0,value:e}),2&r&&"string"!=typeof e)for(var n in e)c.d(t,n,function(r){return e[r]}.bind(null,n));return t},c.n=function(e){var r=e&&e.__esModule?function(){return e.default}:function(){return e};return c.d(r,"a",r),r},c.o=function(e,r){return Object.prototype.hasOwnProperty.call(e,r)},c.p="",c.oe=function(e){throw console.error(e),e},Object.defineProperty(c,"p",{get:function(){return"/assets/js/"}});var f=window.webpackJsonp=window.webpackJsonp||[],u=f.push.bind(f);f.push=r,f=f.slice();for(var b=0;b<f.length;b++)r(f[b]);var i=u;t()}([]);
+//# sourceMappingURL=runtime.70558769211c0509ee5e.packaged.js.map</script>
+
+<meta property="og:title" content="Pet Food, Products, Supplies at Low Prices - Free Shipping | Chewy.com" xmlns:og="http://opengraphprotocol.org/schema/" />
+        <meta property="og:image" content="https://www.chewy.com/assets/img/logo/chewy-opengraph.20170505.png" xmlns:og="http://opengraphprotocol.org/schema/" />
+        <meta property="og:description" content="Shop Chewy for the best pet supplies ranging from pet food, toys and treats to litter, aquariums, and pet supplements plus so much more! If you have a pet-or soon will-you've come to the right place. Shop for all of your pet needs at Chewy's online pet store. FREE shipping on orders $49+, low prices and the BEST customer service!" xmlns:og="http://opengraphprotocol.org/schema/" />
+            <script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Chewy",
+    "url": "http://www.chewy.com",
+    "sameAs": [
+        "http://www.facebook.com/chewy",
+        "https://www.youtube.com/channel/UCpWl2nwLDQQI4TTa1kJgxrg",
+        "http://instagram.com/chewy",
+        "http://twitter.com/chewy",
+        "https://www.linkedin.com/company/2433416",
+        "http://pinterest.com/chewy"
+    ],
+    "contactPoint": [{
+        "@type": "ContactPoint",
+        "telephone": "+1-800-672-4399",
+        "contactType": "customer service"
+    }]
+}
+</script>
+
+<script>
+    
+    window.chewy =  {
+        pageData: {
+            pageType: "home",
+            parentList:"home"
+        }
+    };
+
+</script>
+<script>
+    
+    var pageType = "home";
+    if (pageType === 'browse-brands') pageType = 'brand-page';
+
+    window.chewyConf = {
+        // Temporary to allow move of criteo pixel to GTM without data gap or duplication
+        // TODO: Remove as part of SFW-9058
+        isOldCriteoPixelActive: true,
+
+        // App Context //
+
+        storeId: 10,
+        currency: "USD",
+
+        version: "master-1316",
+        environment: "production",
+        production: true,
+
+        sentryPublicDsn: "https://9ba125d92cbf4e6d92f28364e8a4aae8@sentry.io/125686",
+
+        // Request Context //
+
+        cid: "-1002",
+        uid: "-1002",
+        csr: false,
+        intranetUser: false,
+        priviledged: false,
+        registeredUser: false,
+        genericUser: true,
+        authenticated: false,
+        personalizationId: "8L7PC6C6ShuX6fxyjEeS7A",
+        analyticsAuthenticationState: "generic",
+
+        uriValuesJson: {"scheme":"https","serverName":"www.chewy.com","serverPort":443,"defaultPort":true,"searchEngine":false,"notDefaultPort":false},
+
+        requestId: "1ebbe579,03-5CAE9C5A-4A570B64",
+        isBot: true,
+
+        viewType: "desktop",
+        mobileView: false,
+        desktopView: true,
+        pageType: pageType,
+
+        toggles: {
+            tokenizationEnabled: true,
+            autoshipFirstTimeDiscountPercent: 30,
+            autoshipFirstTimeMaxSavingsAmount: 20,
+            zipCorrectionEnabled: true,
+            isRiskifiedEnabled: true
+        },
+
+        kount: {
+            srcPageUuid: "8e997310a7444b669bf384b1024fc1e5",
+            kountCollectorEndpoint: "https://ssl.kaptcha.com",
+            kountMerchantId: "300143",
+        },
+
+        optimizely: {
+            dataFile: {"version": "4", "rollouts": [], "typedAudiences": [], "anonymizeIP": true, "projectId": "10594014474", "variables": [], "featureFlags": [], "experiments": [], "audiences": [{"id": "11428158261", "conditions": "[\"and\", [\"or\", [\"or\", {\"name\": \"isVisitor\", \"type\": \"custom_attribute\", \"value\": \"false\"}]]]", "name": "UAT - Internal Traffic"}, {"conditions": "[\"or\", {\"match\": \"exact\", \"name\": \"$opt_dummy_attribute\", \"type\": \"custom_attribute\", \"value\": \"$opt_dummy_value\"}]", "id": "$opt_dummy_audience", "name": "Optimizely-Generated Audience for Backwards Compatibility"}], "groups": [], "attributes": [{"id": "10673990693", "key": "IS_CSR"}, {"id": "10675862039", "key": "isIntranetUser"}, {"id": "10676860589", "key": "VIEW_TYPE"}, {"id": "10677651877", "key": "isCsr"}, {"id": "10677781401", "key": "PAGE_TYPE"}, {"id": "10678531566", "key": "IS_BOT"}, {"id": "10680862308", "key": "viewType"}, {"id": "10682461400", "key": "isVisitor"}, {"id": "10683720902", "key": "IS_INTRANET"}, {"id": "10684630675", "key": "isBot"}, {"id": "11361281765", "key": "hasPurchased"}, {"id": "11370712958", "key": "registeredUser"}, {"id": "12016387704", "key": "environment"}, {"id": "12370020842", "key": "utmContent"}, {"id": "12383240743", "key": "utmTerm"}, {"id": "12385360508", "key": "utmSource"}, {"id": "12385420527", "key": "os"}, {"id": "12387560298", "key": "activeAutoship"}, {"id": "12396010023", "key": "browserType"}, {"id": "12396670722", "key": "utmCampaign"}, {"id": "12398270513", "key": "referralURL"}, {"id": "12422160144", "key": "utmMedium"}, {"id": "13118210245", "key": "testAttribute"}, {"id": "13554000162", "key": "noApartment"}, {"id": "13575190357", "key": "verifyAddress"}, {"id": "13578950110", "key": "shipToThisAddress"}, {"id": "13584140585", "key": "suggestedAddress"}, {"id": "13588230255", "key": "addressNotFound"}, {"id": "13770820561", "key": "platform"}], "botFiltering": true, "accountId": "10555604116", "events": [{"experimentIds": [], "id": "10649591699", "key": "purchase"}, {"experimentIds": [], "id": "10660490302", "key": "deals_click"}, {"experimentIds": [], "id": "10685291504", "key": "pdp_from_deals"}, {"experimentIds": [], "id": "10685571084", "key": "acquisition"}, {"experimentIds": [], "id": "11039333437", "key": "product_view"}, {"experimentIds": [], "id": "11067134035", "key": "nav_brand_open"}, {"experimentIds": [], "id": "11074343447", "key": "add_to_cart"}, {"experimentIds": [], "id": "11546935483", "key": "autoship_purchase"}, {"experimentIds": [], "id": "11787892242", "key": "autocomplete_search"}, {"experimentIds": [], "id": "11808422425", "key": "user_search"}, {"experimentIds": [], "id": "12126167576", "key": "account_create"}, {"experimentIds": [], "id": "12128589486", "key": "checkout"}, {"experimentIds": [], "id": "13358680524", "key": "account_login"}, {"experimentIds": [], "id": "13551850395", "key": "checkout_ship_to_this_address_view"}, {"experimentIds": [], "id": "13561610650", "key": "checkout_verify_address_view"}, {"experimentIds": [], "id": "13576840209", "key": "address_not_found_modal_view"}, {"experimentIds": [], "id": "13578910138", "key": "suggested_address_modal_view"}, {"experimentIds": [], "id": "13581000085", "key": "no_apartment_modal_view"}, {"experimentIds": [], "id": "13767140376", "key": "list_view"}, {"experimentIds": [], "id": "14384080452", "key": "plab_click"}, {"experimentIds": [], "id": "14390050316", "key": "autoship_parent_order"}, {"experimentIds": [], "id": "14447290108", "key": "search_facet_click"}], "revision": "635"},
+            experimentOverrides: {
+                
+                "2018_12_CATEGORY_SEARCH_RANK_MODE_V2": "ANUBIS",
+                
+                "2019_01_CHECKOUT_REFACTOR_V2": "REFACTOR",
+                
+                "2019_03_CHECKOUT_ADDRESS_SCRUBBING_V2": "SCRUBBING",
+                
+            }
+        },
+        // TO DO : remove this, once changes are available to have user as part of the application scope. //
+        hasPurchased: "false",
+        disabledBrowserExtIds: "[\x22pbjikboenpfhbbejgkoklgkhjpfogcam\x22,\x224b3d47a9-20bb-544f-9333-6a93af3c9304\x22,\x22AmazonAssistant\x22,\x22com.amazon.AmazonAssistant\x22,\x22xxx_AmazoncomAmazonAssistant\x22]",
+        sessionAcquisitionData: {},
+        transientNotifications: [],
+        utils: {
+            addTransientNotfication: function(destination, text, type) {
+                var notifications = {};
+                try {
+                    notifications = localStorage
+                        && JSON.parse(localStorage.getItem('CW_TRANSIENT_NOTIF'))
+                        || {};
+                } catch (e) {}
+
+                notifications[destination] = Array.prototype.concat.apply(
+                    [],
+                    [notifications[destination] || [], {
+                        type: type ? type : 'success',
+                        text: text
+                    }]);
+
+                // Expose notification
+               localStorage && localStorage.setItem('CW_TRANSIENT_NOTIF', JSON.stringify(notifications));
+            },
+            hasTransientNotifications: function() {
+                return chewyConf.transientNotifications.length > 0;
+            }
+        }
+    };
+
+    (function (overrides) {
+        
+        // overwrite the experiment overrides with whatever the session is forcing.
+        
+        for (var experimentKey in overrides) {
+            window.chewyConf.optimizely.experimentOverrides[experimentKey] = overrides[experimentKey];
+        }
+
+        (function _messageLoader() {
+            var receiverKey = window.location.pathname;
+            var notifications = {};
+            try {
+                notifications = localStorage
+                    && JSON.parse(localStorage.getItem('CW_TRANSIENT_NOTIF'))
+                    || {};
+            } catch (e) {}
+
+            window.chewyConf.transientNotifications = notifications[receiverKey] || [];
+
+            // Enforce cleanup
+            localStorage && localStorage.removeItem('CW_TRANSIENT_NOTIF');
+        })();
+
+        if (window.location.hostname !== 'www.chewy.com' && console) {
+            console.log('%cTRANSIIENT NOTIFICATIONS...:', 'background: #9f72d0; color: #ddd', chewyConf.transientNotifications);
+        }
+    })({})
+</script>
+<script>
+  window.chewy = window.chewy || {};
+  window.chewy.store = window.chewy.store || {};
+
+  </script>
+
+
+<script>
+  
+        var visitType = 'landing';
+    </script>
+<script>
+    window.chewy = window.chewy || {};
+    window.chewy.autoshipFirstTimeDiscountPercent = 30;
+    window.chewy.autoshipFirstTimeMaxSavingsAmount = 20;
+    window.chewy.userHasActiveAutoship = false;
+</script>
+
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+  <script>
+    window.chewy = window.chewy || {};
+    window.dataLayer = window.dataLayer || [];
+    //JS var only used by GA
+    window.chewy.pageType = 'home';
+    
+    if (window.chewy.pageType === 'browse-brands') window.chewy.pageType = 'brand-page';
+    window.chewy.userId = '-1002';
+    window.chewy.environment = 'production'
+</script>
+
+<script src="/assets/js/polyfills.9b628435b028a4734296.packaged.js"></script>
+<script src="/assets/js/common-head-desktop.3ea78edc91afca28dc08.packaged.js"></script>
+
+<script src="//cdn.ravenjs.com/3.17.0/vue/raven.min.js" crossorigin="anonymous"></script>
+
+    <script>
+        var ravenOptions = {
+            ignoreErrors: [
+              // 
+                'top.GLOBALS',
+              // 
+                'originalCreateNotification',
+                'canvas.contentDocument',
+                'MyApp_RemoveAllHighlights',
+                'http://tt.epicplay.com',
+                'Can\'t find variable: ZiteReader',
+                'jigsaw is not defined',
+                'ComboSearch is not defined',
+                'http://loading.retry.widdit.com/',
+                'atomicFindClose',
+              // 
+                'fb_xd_fragment',
+              // 
+              // 
+              // 
+                'bmi_SafeAddOnload',
+                'EBCallBackMessageReceived',
+              // 
+                'conduitPage'
+            ],
+            ignoreUrls: [
+                // 
+                /graph\.facebook\.com/i,
+                // 
+                /connect\.facebook\.net\/en_US\/all\.js/i,
+                // 
+                /eatdifferent\.com\.woopra-ns\.com/i,
+                /static\.woopra\.com\/js\/woopra\.js/i,
+                // 
+                /extensions\//i,
+                /^chrome:\/\//i,
+                // 
+                /127\.0\.0\.1:4001\/isrunning/i,  // 
+                /webappstoolbarba\.texthelp\.com\//i,
+                /metrics\.itunes\.apple\.com\.edgesuite\.net\//i,
+                // 
+                /kaspersky-labs\.com/i,
+                // 
+                /sp\.analytics\.yahoo\.com/i,
+                // 
+                /^\/signals\/config/i,
+                /magiczoomplus\.js/i,
+                /magiczoomplus\.5\.2\.4\.js/i
+            ],
+            shouldSendCallback: function(data) {
+
+              // 
+              // 
+              // 
+              // 
+                if(window.chewyConf && window.chewyConf.isBot){
+                    return false;
+                }
+
+              // 
+              // 
+                if(/CriOS/i.test(navigator.userAgent) && data.exception && data.exception.values){
+                  // 
+                  for(var i = 0; i < data.exception.values.length; i++ ){
+                    var e = data.exception.values[i];
+
+                    if(e.type === 'SecurityError'
+                       && e.value.indexOf('Blocked a frame with origin') !== -1
+                       && e.value.indexOf('Protocols, domains, and ports must match.') !== -1){
+                        return false;
+                    }
+                  }
+                }
+
+              // 
+              // 
+                if(window.location.search.indexOf("catchpoint=true") !== -1 ){
+                  return false;
+                }
+
+                //TODO: filter out IE10 errors too.
+                var regexp = new RegExp('(\\s|^)ie-[89](\\s|$)');
+              // 
+                if(document.body.className.match(regexp)){
+                  return false;
+                }
+
+                return true;
+            },
+            
+          // 
+            sampleRate: 0.1,
+            
+            serverName: 'IAD1GSFW11.ecom.chewy.com',
+            release: 'master-1316',
+            environment : 'production',
+            tags: {
+                viewType : 'desktop',
+                pageType : 'home'
+            },
+            extra: {
+                rid: '1ebbe579,03-5CAE9C5A-4A570B64',
+                cid: '-1002'
+            }
+        };
+
+        Raven.config('https://9ba125d92cbf4e6d92f28364e8a4aae8@sentry.io/125686', ravenOptions).install();
+        Raven.setUserContext({id: '-1002'});
+
+    </script>
+
+<script src="/assets/js/main-utilities.6b92d18ea9cb43647d10.packaged.js"></script>
+<script src="/assets/js/d-main.6002ef5a3738b02722a6.packaged.js"></script>
+
+<script src="/assets/js/vendor/opti/opti.browser.umd.2.1.3.min.js"></script>
+<script>
+    // optimizelyClient will be undefined if customer is running adblock extension
+    if (window.optimizelyClient) {
+
+        (function(){
+
+            //TODO: provide our own logger that hooks into Sentry
+            window.chewy.optimizelyClient = window.optimizelyClient.createInstance({
+                datafile: window.chewyConf.optimizely.dataFile,
+                logLevel: parseInt($.cookie('cw-optilog'), 10) || 4
+            });
+
+            // Get browser name and OS name
+            // TODO: Duplicated from UserAgentUtils.kt - don't update one without the other - figure out how to import
+            // from com.chew.sfweb.utils.UserAgentUtils without script-loader issues in jspf and legacy js files.
+            var agent = navigator.userAgent.toLowerCase();
+            var browserName = "Unknown";
+            var OSName = "Unknown";
+            if (agent.indexOf("opera") !== -1) browserName = "Opera";
+            else if (agent.indexOf("msie") !== -1) browserName = "MSIE";
+            else if (agent.indexOf("chrome") !== -1) browserName = "Chrome";
+            else if (agent.indexOf("safari") !== -1) browserName = "Safari";
+            else if (agent.indexOf("firefox") !== -1) browserName = "Firefox";
+            if (agent.indexOf("windows") !== -1) OSName = "Windows";
+            else if (agent.indexOf("mac") !== -1) OSName = "MacOS";
+            else if (agent.indexOf("x11") !== -1) OSName = "UNIX";
+            else if (agent.indexOf("linux") !== -1) OSName = "Linux";
+
+            var commonAttributes = {
+                'isVisitor': (!window.chewyConf.isBot && !window.chewyConf.csr && !window.chewyConf.intranetUser).toString(),
+                'viewType': chewyConf.viewType,
+                'hasPurchased': chewyConf.hasPurchased.toString(),
+                'registeredUser': chewyConf.registeredUser.toString(),
+                'environment': chewyConf.environment,
+                'utmSource': window.chewyConf.sessionAcquisitionData.utm_source || "",
+                'utmMedium': window.chewyConf.sessionAcquisitionData.utm_medium || "",
+                'utmCampaign': window.chewyConf.sessionAcquisitionData.utm_campaign || "",
+                'utmTerm': window.chewyConf.sessionAcquisitionData.utm_term || "",
+                'utmContent': window.chewyConf.sessionAcquisitionData.utm_content || "",
+                'activeAutoship': window.chewy.userHasActiveAutoship.toString(),
+                'browserType': browserName,
+                'os': OSName,
+                'referralURL': window.chewyConf.sessionAcquisitionData.referer || ""
+            };
+
+            var _mergedAttributes = function(attrs){
+                return $.extend({}, commonAttributes, attrs);
+            };
+
+            window.chewy.optimizelyClient.safeTrack = function (eventKey, attributes, eventTags) {
+                return this.track(eventKey, window.chewyConf.personalizationId, _mergedAttributes(attributes), eventTags);
+            };
+
+            window.chewy.optimizelyClient.safeActivate = function (experimentKey, attributes) {
+                // Short circuit if there is an override in place for this experiment. Prevents
+                // calling activate if an override is in place.
+                if (window.chewyConf.optimizely.experimentOverrides[experimentKey]){
+                    return window.chewyConf.optimizely.experimentOverrides[experimentKey]
+                }
+
+                if(this.configObj.experimentKeyMap[experimentKey] === undefined){
+                    return null;
+                }
+
+                var keyName = 'optimizelyVariant_' + experimentKey + '_' + window.chewyConf.personalizationId;
+                var isStorageAvailable = window.chewy.storageAvailable();
+                var variantEntry = isStorageAvailable ? JSON.parse(localStorage.getItem(keyName)) : null;
+                if (!variantEntry) {
+
+                    var variantValue = this.activate(experimentKey, window.chewyConf.personalizationId, _mergedAttributes(attributes));
+
+                    if (variantValue == null) {
+                        return null;
+                    }
+                    variantEntry = JSON.stringify({
+                        value: variantValue,
+                        time: Date.now()
+                    });
+
+                    // TODO: SFW-6217 use callback instead to decouple
+                    if (window.chewy && window.chewy.gaHelper) {
+                        window.chewy.gaHelper.pushExperiment(experimentKey, variantValue);
+                    }
+
+                    if (isStorageAvailable) localStorage.setItem(keyName, variantEntry);
+                    return variantValue;
+                }
+                return variantEntry.value;
+            };
+
+            window.chewy.optimizelyClient.getSafeVariation = function (experimentKey, attributes) {
+                // if an override is set, just pass back the override
+                if (window.chewyConf.optimizely.experimentOverrides[experimentKey]){
+                  return window.chewyConf.optimizely.experimentOverrides[experimentKey]
+                }
+
+                if(this.configObj.experimentKeyMap[experimentKey] === undefined){
+                    return null;
+                }
+                return this.getVariation(experimentKey, window.chewyConf.personalizationId, _mergedAttributes(attributes));
+            };
+        })();
+
+    }
+
+</script>
+<script>
+    
+    var pageType = 'home'
+    if (pageType === 'browse-brands') pageType = 'brand-page';
+
+    dataLayer.push({
+        'environment': 'production',
+        'viewType': 'desktop',
+        'app_version': 'master-1316',
+        
+        'pageType': pageType,
+        
+        'ecomm_pagetype':'home',
+        'personalizationId': chewyConf.personalizationId,
+        'isBot': chewyConf.isBot,
+        'authenticationState': chewyConf.analyticsAuthenticationState,
+        'cart': undefined,
+        'searchExperienceType': '',
+        'batchId': chewyConf.requestId,
+        
+    });
+</script>
+<link rel="apple-touch-icon" href="/assets/app-icons/apple/apple-touch-icon-precomposed.png">
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/app-icons/apple/apple-touch-icon-57x57-precomposed.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/app-icons/apple/apple-touch-icon-76x76-precomposed.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/app-icons/apple/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/app-icons/apple/apple-touch-icon-120x120-precomposed.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/app-icons/apple/apple-touch-icon-144x144-precomposed.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/app-icons/apple/apple-touch-icon-152x152-precomposed.png"><link rel="stylesheet" type="text/css" href="/assets/css/home.136b82c48e12eb486276.css">
+        <link rel="canonical" href=”https://www.chewy.com”>
+        <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "url": "http://www.chewy.com",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.chewy.com/s?query={search_term_string}&src=searchbox_google&nav-submit-button=",
+        "query-input": "required name=search_term_string"
+      }
+    }
+</script>
+                                                <link rel="stylesheet" type="text/css" href="
+//cms-www.chewy.com/contentAsset/raw-data/ac20e004-40c4-46de-be3d-1400c8644dc8/fileAsset/fe685156-fe1c-447a-91f0-ce3bdd2999a3/src/css/home/homepage-hero-carousel-v2.css
+">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+        
+    
+            	<style>
+		@media (max-width: 768px){
+			.autoship-save-convenience-5.cw-slide a {
+				background: url(//cms-www.chewy.com/contentAsset/raw-data/59642405-5ed3-4003-af3a-28e626abe191/mediumImage/1fa2e2b0-9abb-4d64-9342-21aa325f9161) no-repeat center;
+			}
+		}
+		
+		@media (min-width: 769px) {
+		    .autoship-save-convenience-5.cw-slide {
+								    background: url(//cms-www.chewy.com/contentAsset/raw-data/59642405-5ed3-4003-af3a-28e626abe191/backgroundTile/1fa2e2b0-9abb-4d64-9342-21aa325f9161) center
+							}
+			
+			.autoship-save-convenience-5.cw-slide a {
+				background: url(//cms-www.chewy.com/contentAsset/raw-data/59642405-5ed3-4003-af3a-28e626abe191/largeImage/1fa2e2b0-9abb-4d64-9342-21aa325f9161) no-repeat center;
+			}
+		}
+	</style>
+
+            	<style>
+		@media (max-width: 768px){
+			.landmark-no-offer.cw-slide a {
+				background: url(//cms-www.chewy.com/contentAsset/raw-data/20c91c74-0006-4f98-bfa8-571426036801/mediumImage/ef436d2f-3eda-407a-9504-393d47b5db66) no-repeat center;
+			}
+		}
+		
+		@media (min-width: 769px) {
+		    .landmark-no-offer.cw-slide {
+								    background: url(//cms-www.chewy.com/contentAsset/raw-data/20c91c74-0006-4f98-bfa8-571426036801/backgroundTile/ef436d2f-3eda-407a-9504-393d47b5db66) center
+							}
+			
+			.landmark-no-offer.cw-slide a {
+				background: url(//cms-www.chewy.com/contentAsset/raw-data/20c91c74-0006-4f98-bfa8-571426036801/largeImage/ef436d2f-3eda-407a-9504-393d47b5db66) no-repeat center;
+			}
+		}
+	</style>
+
+            	<style>
+		@media (max-width: 768px){
+			.purina-pro-plan.cw-slide a {
+				background: url(//cms-www.chewy.com/contentAsset/raw-data/9d181ba9-382c-4d4b-be70-4749e22520d8/mediumImage/81b90267-3189-4247-8d2a-97766ac45102) no-repeat center;
+			}
+		}
+		
+		@media (min-width: 769px) {
+		    .purina-pro-plan.cw-slide {
+								    background: url(//cms-www.chewy.com/contentAsset/raw-data/9d181ba9-382c-4d4b-be70-4749e22520d8/backgroundTile/81b90267-3189-4247-8d2a-97766ac45102) center
+							}
+			
+			.purina-pro-plan.cw-slide a {
+				background: url(//cms-www.chewy.com/contentAsset/raw-data/9d181ba9-382c-4d4b-be70-4749e22520d8/largeImage/81b90267-3189-4247-8d2a-97766ac45102) no-repeat center;
+			}
+		}
+	</style>
+
+            	<style>
+		@media (max-width: 768px){
+			.pharmacy.cw-slide a {
+				background: url(//cms-www.chewy.com/contentAsset/raw-data/a3c74379-443a-45b6-b06a-2edf90d12fa4/mediumImage/ca9e1fdb-53ed-4b40-9536-56fb8aa62f93) no-repeat center;
+			}
+		}
+		
+		@media (min-width: 769px) {
+		    .pharmacy.cw-slide {
+								    background: url(//cms-www.chewy.com/contentAsset/raw-data/a3c74379-443a-45b6-b06a-2edf90d12fa4/backgroundTile/ca9e1fdb-53ed-4b40-9536-56fb8aa62f93) center
+							}
+			
+			.pharmacy.cw-slide a {
+				background: url(//cms-www.chewy.com/contentAsset/raw-data/a3c74379-443a-45b6-b06a-2edf90d12fa4/largeImage/ca9e1fdb-53ed-4b40-9536-56fb8aa62f93) no-repeat center;
+			}
+		}
+	</style>
+
+            	<style>
+		@media (max-width: 768px){
+			.spring-cleaning.cw-slide a {
+				background: url(//cms-www.chewy.com/contentAsset/raw-data/187e84cb-a6df-4291-8743-8dfe02aab23f/mediumImage/ac0fd38e-afb2-46cb-ae34-396a06734ab6) no-repeat center;
+			}
+		}
+		
+		@media (min-width: 769px) {
+		    .spring-cleaning.cw-slide {
+								    background: url(//cms-www.chewy.com/contentAsset/raw-data/187e84cb-a6df-4291-8743-8dfe02aab23f/backgroundTile/ac0fd38e-afb2-46cb-ae34-396a06734ab6) center
+							}
+			
+			.spring-cleaning.cw-slide a {
+				background: url(//cms-www.chewy.com/contentAsset/raw-data/187e84cb-a6df-4291-8743-8dfe02aab23f/largeImage/ac0fd38e-afb2-46cb-ae34-396a06734ab6) no-repeat center;
+			}
+		}
+	</style>
+
+            	<style>
+		@media (max-width: 768px){
+			.pl-treats-promo.cw-slide a {
+				background: url(//cms-www.chewy.com/contentAsset/raw-data/85a4877f-502d-4f63-a9f0-9c947269d99b/mediumImage/90a41a18-5d48-4f57-8075-8908ed876a84) no-repeat center;
+			}
+		}
+		
+		@media (min-width: 769px) {
+		    .pl-treats-promo.cw-slide {
+								    background: url(//cms-www.chewy.com/contentAsset/raw-data/85a4877f-502d-4f63-a9f0-9c947269d99b/backgroundTile/90a41a18-5d48-4f57-8075-8908ed876a84) center
+							}
+			
+			.pl-treats-promo.cw-slide a {
+				background: url(//cms-www.chewy.com/contentAsset/raw-data/85a4877f-502d-4f63-a9f0-9c947269d99b/largeImage/90a41a18-5d48-4f57-8075-8908ed876a84) no-repeat center;
+			}
+		}
+	</style>
+
+    </head>
+
+    <!--[if IE 8 ]><body class="ie ie-8 bd-home"> <![endif]-->
+    <!--[if IE 9 ]> <body class="ie ie-9 bd-home"> <![endif]-->
+    <!--[if (gt IE 9)|!(IE)]><!--> <body class="bd-home"> <!--<![endif]-->
+
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5X325N"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Google Tag Manager -->
+<script>
+  (function(w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({
+      "gtm.start": new Date().getTime(),
+      event: "gtm.js"
+    });
+    var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s),
+      dl = l != "dataLayer" ? "&l=" + l : "";
+    j.async = true;
+    j.src =
+      "https://www.googletagmanager.com/gtm.js?id=" +
+      i +
+      dl +
+      "";
+    f.parentNode.insertBefore(j, f);
+  })(window, document, "script", "dataLayer", "GTM-5X325N");
+</script>
+<!-- End Google Tag Manager --><div class="header-wrapper">
+    <header id="header-main">
+        <section class="header-top">
+            <div class="container">
+                <div class="header-left">
+                    <a href="#" class="trigger-menu nav-icon">
+                        <span></span>
+                    </a>
+
+                    <h1 class="cw-logo-header">
+                          <a href="/" class="cw-logo">
+                            <span class="cw-logo-alt">Chewy</span>
+                          </a>
+                        </h1>
+                      <div id="vue-mount__search__autocomplete" data-query=""></div>
+                </div>
+                <nav class="header-right">
+                    <ul class="arrow-nav js-dropdown">
+                        <li>
+                            <a>
+                                <span class="hidden-tablet">24/7 </span>help
+                            </a>
+                            <div class="cw-drop cw-drop-help">
+                                <div class="cw-help-top">
+                                    <p>
+                                        Get help from our experts 24/7
+                                        <span>
+                                            1-800-672-4399</span>
+                                    </p>
+                                </div>
+                                <div class="cw-help-mid">
+                                        <div id="chewyChatLinkContainer--header" class="js-chewyChatLinkContainer">
+                                                <div id="chewyChatLink--header" class="js-chewyChatLink">
+                                                    <div id="chewyChatLinkInfo--header" class="js-chewyChatLinkInfo">
+                                                      <div class="livechat cw-help-mid__livechat"><span>Chat Live</span></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        <a class="emailus" href="/app/content/contact">Contact Us</a>
+                                </div>
+                                <div class="cw-help-bottom">
+                                    <ul>
+                                        <li><a href="/app/account/orderhistory">Track Order</a></li>
+                                        <li><a href="/app/content/faq">FAQs</a></li>
+                                        <li><a href="/app/content/faq#shipping">Shipping Info</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li> <li class="not-logged">
+                            <a href="/app/account" class="js-load-dynamicmenu top-nav-account ">
+                                <span class="top-nav-username">
+                                    </span>
+                                <span class="top-nav-account"><span class="visible-desktoplg">your </span>account</span>
+                            </a>
+                            <div class="cw-drop cw-drop-account">
+                                <div class="cw-drop-account-right">
+                                    <div class="cw-account-signin">
+                                            <a href="/app/account" class="cw-btn cw-btn--action cw-btn--full js-header-sign-in">Sign In</a>
+                                            <p class="new-customer">New customer? <a href="/app/register">Start here</a></p>
+                                        </div>
+                                    <ul>
+                                        <li><a href="/app/account">Account</a></li>
+                                        <li><a href="/app/account/orderhistory">Orders</a></li>
+                                        <li><a href="/app/subs">Manage Autoship</a></li>
+                                        <li><a href="/app/account/pets" class="js-drop-acc-my-pets-ga">My Pets</a></li>
+                                        <li><a href="/app/account/favorites">Favorites</a></li>
+                                        </ul>
+                                </div>
+                                <div class="cw-drop-account-left">
+                                    <h3>Manage Your Autoship</h3>
+                                    <div class="ajax-content">
+                                    </div>
+                                </div>
+                            </div> </li> <li class="header-cart">
+                            <script>
+    $(document).on('click', '.js-gtm-proceed-to-checkout-dynamic', function () {
+        var productsArray = [];
+        $('#gaCartDomParent .ga-eec__container').each(function (index, item) {
+            productsArray.push(window.chewy.gaHelper.buildProductFieldObject(item));
+        });
+
+
+        dataLayer.push({
+            'event': 'analyticsEvent',
+            'eventCategory': 'eec',
+            'eventAction': 'checkout',
+            'ec:action': 'checkout',
+            'eventLabel': undefined,
+            'eventNonInt': true,
+            'ecommerce': {
+              'checkout': {
+                'actionField': {
+                  'step': 1
+                },
+                'products': productsArray
+              }
+            }
+        });
+
+    });
+</script><a href="/app/cart" class="js-load-dynamicmenu basket ">
+    <span class="quantity ">0</span>
+    <span class="icon-cart"></span>
+    <span class="hidden-tablet"><span class="visible-desktoplg">your </span>cart</span>
+</a>
+
+<div id="minicart" class="cw-drop cw-drop-right">
+    <div class="cw-loader">Loading...</div>
+    <div class="cart-empty">
+        <h3>Your cart is empty.</h3>
+        <p>Something missing? <a href="/app/login">Sign in</a> to see items you may have added from another computer or device.</p>
+            </div>
+    <div class="cart-full">
+        <div class="ajax-content">
+        </div>
+        <div id="gaCartDomParent"></div>
+    </div>
+</div>
+
+</li>
+                    </ul>
+                </nav> </div>
+        </section>
+        <section class="header-bottom">
+            <div class="container">
+                <div class="header-left" role="application">
+                    <nav class="nav-main">
+                        <ul class="arrow-nav js-dropdown">
+                            <li class="nav-drop nav-drop-pet">
+                                <button class="nav-drop__button" aria-expanded="false">shop by pet</button>
+                                <div class="cw-drop drop-pet">
+	<div class="drop-pet--container">
+		<section class="pet-drop-left js-pet-drop-left">
+			<ul>
+				<li>
+            <button
+              class="pet-drop__button "
+              data-hierarchy="Dog" aria-expanded="false"
+            >
+              <a
+                class="pet-drop__link"
+                href="/b/dog-288"
+                data-target="pet-drop-category__dog"
+                tabindex="-1"
+              >
+                Dog</a>
+            </button>
+					</li>
+				<li>
+            <button
+              class="pet-drop__button "
+              data-hierarchy="Cat" aria-expanded="false"
+            >
+              <a
+                class="pet-drop__link"
+                href="/b/cat-325"
+                data-target="pet-drop-category__cat"
+                tabindex="-1"
+              >
+                Cat</a>
+            </button>
+					</li>
+				<li>
+            <button
+              class="pet-drop__button "
+              data-hierarchy="Fish" aria-expanded="false"
+            >
+              <a
+                class="pet-drop__link"
+                href="/b/fish-885"
+                data-target="pet-drop-category__fish"
+                tabindex="-1"
+              >
+                Fish</a>
+            </button>
+					</li>
+				<li>
+            <button
+              class="pet-drop__button "
+              data-hierarchy="Bird" aria-expanded="false"
+            >
+              <a
+                class="pet-drop__link"
+                href="/b/bird-941"
+                data-target="pet-drop-category__bird"
+                tabindex="-1"
+              >
+                Bird</a>
+            </button>
+					</li>
+				<li>
+            <button
+              class="pet-drop__button "
+              data-hierarchy="Small-Pet" aria-expanded="false"
+            >
+              <a
+                class="pet-drop__link"
+                href="/b/small-pet-977"
+                data-target="pet-drop-category__smallpet"
+                tabindex="-1"
+              >
+                Small Pet</a>
+            </button>
+					</li>
+				<li>
+            <button
+              class="pet-drop__button "
+              data-hierarchy="Reptile" aria-expanded="false"
+            >
+              <a
+                class="pet-drop__link"
+                href="/b/reptile-1025"
+                data-target="pet-drop-category__reptile"
+                tabindex="-1"
+              >
+                Reptile</a>
+            </button>
+					</li>
+				<li>
+            <button
+              class="pet-drop__button "
+              data-hierarchy="Horse" aria-expanded="false"
+            >
+              <a
+                class="pet-drop__link"
+                href="/b/horse-1663"
+                data-target="pet-drop-category__horse"
+                tabindex="-1"
+              >
+                Horse</a>
+            </button>
+					</li>
+				<li>
+            <button
+              class="pet-drop__button "
+              data-hierarchy="Pharmacy" aria-expanded="false"
+            >
+              <a
+                class="pet-drop__link"
+                href="/b/pharmacy-2515"
+                data-target="pet-drop-category__rx-pharmacy"
+                tabindex="-1"
+              >
+                Pharmacy</a>
+            </button>
+					</li>
+				</ul>
+		</section>  <section class="pet-drop-right pet-drop-right--loading js-pet-drop-right js-brand-tile-analytics-hook">
+			<div class="pet-drop-right__wrapper js-pet-drop-right__content">
+				<div class="nav-drop__loader">
+					<div class="cw-loader"></div>
+				</div>
+			</div>
+		</section> </div>
+</div></li>
+                            <li class="nav-button nav-button-brand">
+                                <a href="/brands" class="sale-label" data-hierarchy="shop-by-brand">shop by brand</a>
+                            </li>
+                            <li class="nav-drop nav-drop-pharmacy">
+    <button class="nav-drop__button pharmacy-label" aria-expanded="false"><a href="/b/pharmacy-2515" data-hierarchy="Pharmacy" tabindex="-1">pharmacy</a></button>
+
+    <div class="cw-drop drop-pharmacy">
+        <ul class="drop-pharmacy__list">
+            <li>
+                    <a href="/b/heartworm-2517"
+                    data-hierarchy="Heartworm"
+                    data-target="drop-pharmacy__category-rx-heartworm"
+                    >
+                        Heartworm</a>
+                </li>
+            <li>
+                    <a href="/b/flea-tick-2516"
+                    data-hierarchy="Flea-and-Tick"
+                    data-target="drop-pharmacy__category-rx-flea-tick"
+                    >
+                        Flea &amp; Tick</a>
+                </li>
+            <li>
+                    <a href="/b/pain-relief-arthritis-2518"
+                    data-hierarchy="Pain-Relief-and-Arthritis"
+                    data-target="drop-pharmacy__category-rx-pain-relief-arthritis"
+                    >
+                        Pain Relief &amp; Arthritis</a>
+                </li>
+            <li>
+                    <a href="/b/skin-coat-2521"
+                    data-hierarchy="Skin-and-Coat"
+                    data-target="drop-pharmacy__category-rx-skin-coat"
+                    >
+                        Skin &amp; Coat</a>
+                </li>
+            <li>
+                    <a href="/b/allergy-relief-2522"
+                    data-hierarchy="Allergy-Relief"
+                    data-target="drop-pharmacy__category-rx-allergy"
+                    >
+                        Allergy Relief</a>
+                </li>
+            <li>
+                    <a href="/b/ear-eye-care-2648"
+                    data-hierarchy="Ear-and-Eye-Care"
+                    data-target="drop-pharmacy__category-rx-ear-eye-medication"
+                    >
+                        Ear &amp; Eye Care</a>
+                </li>
+            <li>
+                    <a href="/b/medications-2519"
+                    data-hierarchy="Medications"
+                    data-target="drop-pharmacy__category-rx-medications"
+                    >
+                        Medications</a>
+                </li>
+            <li>
+                    <a href="/b/health-conditions-2520"
+                    data-hierarchy="Health-Conditions"
+                    data-target="drop-pharmacy__category-rx-treatments"
+                    >
+                        Health Conditions</a>
+                </li>
+            </ul>
+    </div>
+</li><li class="nav-button nav-button--daily">
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+        
+    
+
+
+
+    
+    
+    
+        
+        
+        
+    
+
+
+<a href="/deals">
+    <span class="sale-label  sale-label--daily" data-hierarchy="todays-deals">
+        Today's Deals
+    </span>
+</a>
+</li>
+
+                        </ul>
+                    </nav>
+                </div>
+                <div class="header-right">
+                    <a href="#" data-modal-target="modal-freeshipping" class="header-shipping">
+                        FREE 1-2 DAY SHIPPING OVER $49!
+                    </a>
+                </div>
+            </div>
+        </section>
+    </header>
+</div>
+<div class="nav-mask"></div>
+
+<aside id="modal-freeshipping" class="cw-modal">
+    <div class="cw-modal-mask"></div>
+    <div class="cw-modal-wrap">
+        <div class="cw-modal-body" style="height: 52.8rem; width: 51.6rem; overflow: hidden;">
+            <header>
+                <a href="#" class="cw-modal-close"></a>
+            </header>
+            <article class="cw-modal-content"> <img class="lazyload" data-src="/assets/img/promo/popup/FREESHIP-popup.20160526.png" alt="Fast and free shipping on any order over $49. For orders under $49, shipping is $4.95. Automatically applied at checkout. Please note: we cannot ship to P.O. boxes and international addresses. Only valid within the contiguous U.S." />
+            </article>
+        </div>
+    </div>
+</aside>
+
+<script src="/assets/js/search-autocomplete.e8c4367d5a1ec36b303a.packaged.js" async></script>
+<aside class="cw-promo">
+        <a href="#" data-modal-target="modal-home-autoship" class="js-header-autoship-modal">
+            <span class="cw-promo-ticket">Save 30%</span> on your first
+            <img class="lazyload" data-src="/assets/img/logo/autoship-logo.svg" alt="Autoship" />
+            <span class="cw-promo-link">Learn more</span>
+        </a>
+    </aside>
+    <aside id="modal-home-autoship" class="cw-modal cw-modal-transparent">
+        <div class="cw-modal-mask"></div>
+        <div class="cw-modal-wrap">
+            <div class="cw-modal-body" style="height: 55rem; width: 64.2rem; overflow: hidden;">
+                <header>
+                    <a href="#" class="cw-modal-close"></a>
+                </header>
+                <article class="cw-modal-content"> <img class="lazyload" data-src="/assets/img/promo/popup/30OFFAUTOSHIP-popup.20180703.jpg" alt="Save 30% on your first Autoship order. Select Autoship at checkout and set your schedule, change or cancel at any time, and enjoy extra savings. Maximum discount of $20 with 30% off promotion. Discount automatically applied when Autoship is selected at checkout. No coupons necessary." />
+                </article>
+            </div>
+        </div>
+    </aside>
+<main class="main-content">
+                <div id="vue-mount__sfw-page-home"></div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <div data-cms-uid="hp-hero-10" class="cms-include ">
+            
+                                <section class="cw-hero js-home-carousel">
+    <ul class="cw-slider cw-hero-slider js-draggable-on-desktop">
+     
+
+<li class="cw-slide autoship-save-convenience-5" data-promo-creative="autoship-test-convenience-5">
+    <a href="/s?page=1&rh=AnsEligible%3Atrue%2Cc%3A1838&search-ban-10=UID-sb-10-autoship" ></a>
+</li>            
+
+<li class="cw-slide landmark-no-offer" data-promo-creative="landmark-no-offer">
+    <a href="/app/content/landmark" ></a>
+</li>            
+
+<li class="cw-slide purina-pro-plan" data-promo-creative="purina-pro-plan-brand">
+    <a href="/brands/purina-pro-plan-7434" ></a>
+</li>            
+
+<li class="cw-slide pharmacy" data-promo-creative="pharmacy">
+    <a href="/b/pharmacy-2515" ></a>
+</li>            
+
+<li class="cw-slide spring-cleaning" data-promo-creative="spring-cleaning">
+    <a href="/s?rh=OtherFacet%3ASpring+Cleaning&ci-search-hd=spring-cleaning" ></a>
+</li>            
+
+<li class="cw-slide pl-treats-promo" data-promo-creative="pl-treats-promo">
+    <a href="/s?rh=OtherFacet:Treat+Sale&ci-search-hd=treats-mix-match" ></a>
+</li>            </ul>
+</section> 
+    
+        </div>
+    
+    
+
+<div class="container">
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <article class="home-cta-carousels">
+                <section class="cw-slider cw-home-carrousel autoship-brands js-autoship-brands-carousel js-draggable-on-desktop"
+         data-ga-label="home-carousel-autoship-brands">
+    <h2 class="home-head js-banner" data-promo-creative="shop-all-link" data-position="13">
+        Save an Extra 5-10% on Every Autoship Order
+    </h2>
+    <a href="/ci/lp/resp/autoship-n-save/autoship-n-save.html"><span class="view-all">Shop All</span><span class="cw-slider__accessibility-text"> Autoship Savings</span></a>
+    <ul>
+        <li class="js-banner" data-promo-creative="american-journey" data-position="1">
+            <a href="/brands/american-journey-6422">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/autoship/american-journey.20170515.jpg" alt="American Journey">
+                </div>
+                <p>American Journey</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="purina-pro-plan" data-position="2">
+            <a href="/brands/purina-pro-plan-7434">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/autoship/purina-pro-plan.20170221.jpg" alt="Purina Pro Plan">
+                </div>
+                <p>Purina Pro Plan</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="hills-prescription-diet" data-position="3">
+            <a href="/brands/prescription-diet-6879">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/autoship/hills-prescription.20170808.jpg" alt="Hill's">
+                </div>
+                <p>Hill's Prescription Diet</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="greenies" data-position="4">
+            <a href="/brands/greenies-6812">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/autoship/greenies.20170221.jpg" alt="Greenies">
+                </div>
+                <p>Greenies</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="instinct" data-position="5">
+            <a href="/brands/instinct-7099">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/autoship/natures-variety.20170510.jpg" alt="Instinct">
+                </div>
+                <p>Instinct</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="the-honest-kitchen" data-position="6">
+            <a href="/brands/the-honest-kitchen-7590">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/autoship/honest-kitchen.20181004.jpg" alt="The Honest Kitchen">
+                </div>
+                <p>The Honest Kitchen</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="nutro" data-position="7">
+            <a href="/brands/nutro-7138">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/autoship/nutro.05162017.jpg" alt="Nutro">
+                </div>
+                <p>Nutro</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="tylees" data-position="8">
+            <a href="/brands/tylees-7661">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/autoship/tylees.jpg" alt="Tylee's">
+                </div>
+                <p>Tylee's</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="rachael-ray" data-position="9">
+            <a href="/brands/rachael-ray-nutrish-7468">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/autoship/rachael-ray-nutrish.20171002.jpg" alt="Rachael Ray Nutrish">
+                </div>
+                <p>Rachael Ray Nutrish</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="iams" data-position="10">
+            <a href="/brands/iams-6921">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/autoship/iams.20170808.jpg" alt="Iams">
+                </div>
+                <p>Iams</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="halo" data-position="11">
+            <a href="/brands/halo-6841">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/autoship/halo.20170822.jpg" alt="Halo">
+                </div>
+                <p>Halo</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="stella-chewys" data-position="12">
+            <a href="/brands/stella-chewy-7557">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/autoship/stella-chewys.20180215.jpg" alt="Stella &amp; Chewy's">
+                </div>
+                <p>Stella &amp; Chewy's</p>
+            </a>
+        </li>
+    </ul>
+</section>
+
+<section class="cw-slider cw-home-carrousel top-rated-brands js-top-rated-brands-carousel"
+         data-ga-label="home-carousel-top-rated-brands">
+    <h2 class="home-head js-banner" data-promo-creative="shop-all-link" data-position="11">
+        Top-Rated Brands
+    </h2>
+    <a href="/s?page=1&rh=FoodForm%3ADry+Food%2Crating%3A0"><span class="view-all">Shop All</span><span class="cw-slider__accessibility-text"> Top-Rated Brands</span></a>
+    <ul class="js-draggable-on-desktop">
+        <li class="js-banner" data-promo-creative="blue-buffalo" data-position="1">
+            <a href="/brands/blue-buffalo-6526">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/top-rated/blue-life-protection.20171103.jpg" alt="Blue Buffalo">
+                </div>
+                <div class="cw-stars">
+                    <picture>
+                        <source type="image/svg+xml" srcset="/assets/img/ratings/rating-5_0.svg">
+                        <img src="/assets/img/ratings/rating-5_0.png" alt="Rating - 5 of 5 stars">
+                    </picture>
+                </div>
+                <p>Blue Buffalo</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="merrick" data-position="2">
+            <a href="/brands/merrick-7048">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/top-rated/merrick.20190211.jpg" alt="Merrick">
+                </div>
+                <div class="cw-stars">
+                    <picture>
+                        <source type="image/svg+xml" srcset="/assets/img/ratings/rating-5_0.svg">
+                        <img src="/assets/img/ratings/rating-5_0.png" alt="Rating - 5 of 5 stars">
+                    </picture>
+                </div>
+                <p>Merrick</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="wellness" data-position="3">
+            <a href="/brands/wellness-7724">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/top-rated/wellness-core.20170221.jpg" alt="Wellness">
+                </div>
+                <div class="cw-stars">
+                    <picture>
+                        <source type="image/svg+xml" srcset="/assets/img/ratings/rating-5_0.svg">
+                        <img src="/assets/img/ratings/rating-5_0.png" alt="Rating - 5 of 5 stars">
+                    </picture>
+                </div>
+                <p>Wellness</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="nutro" data-position="4">
+            <a href="/brands/nutro-7138">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/top-rated/nutro.20170301.jpg" alt="Nutro">
+                </div>
+                <div class="cw-stars">
+                    <picture>
+                        <source type="image/svg+xml" srcset="/assets/img/ratings/rating-5_0.svg">
+                        <img src="/assets/img/ratings/rating-5_0.png" alt="Rating - 5 of 5 stars">
+                    </picture>
+                </div>
+                <p>Nutro</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="royal-canin" data-position="5">
+            <a href="/brands/royal-canin-7487">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/top-rated/royal-canin.jpg" alt="Royal Canin">
+                </div>
+                <div class="cw-stars">
+                    <picture>
+                        <source type="image/svg+xml" srcset="/assets/img/ratings/rating-5_0.svg">
+                        <img src="/assets/img/ratings/rating-5_0.png" alt="Rating - 5 of 5 stars">
+                    </picture>
+                </div>
+                <p>Royal Canin</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="natural-balance" data-position="6">
+            <a href="/brands/natural-balance-7081">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/top-rated/natural-balance.20180829.jpg" alt="Natural Balance">
+                </div>
+                <div class="cw-stars">
+                    <picture>
+                        <source type="image/svg+xml" srcset="/assets/img/ratings/rating-5_0.svg">
+                        <img src="/assets/img/ratings/rating-5_0.png" alt="Rating - 5 of 5 stars">
+                    </picture>
+                </div>
+                <p>Natural Balance</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="only-natural-pet" data-position="7">
+            <a href="/brands/only-natural-pet-7169">
+                <div class="carrousel-img">
+                    <img src="//img.chewy.com/is/image/catalog/143587_MAIN._AC_SL400_V1522867789_.jpg" alt="Only Natural Pet">
+                </div>
+                <div class="cw-stars">
+                    <picture>
+                        <source type="image/svg+xml" srcset="/assets/img/ratings/rating-5_0.svg">
+                        <img src="/assets/img/ratings/rating-5_0.png" alt="Rating - 5 of 5 stars">
+                    </picture>
+                </div>
+                <p>Only Natural Pet</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="victor" data-position="8">
+            <a href="/brands/victor-7682">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/top-rated/victor.jpg" alt="Victor">
+                </div>
+                <div class="cw-stars">
+                    <picture>
+                        <source type="image/svg+xml" srcset="/assets/img/ratings/rating-5_0.svg">
+                        <img src="/assets/img/ratings/rating-5_0.png" alt="Rating - 5 of 5 stars">
+                    </picture>
+                </div>
+                <p>Victor</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="taste-of-the-wild" data-position="9">
+            <a href="/brands/taste-of-the-wild-7576">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/top-rated/taste-of-the-wild.20170221.jpg" alt="Taste of the Wild">
+                </div>
+                <div class="cw-stars">
+                    <picture>
+                        <source type="image/svg+xml" srcset="/assets/img/ratings/rating-5_0.svg">
+                        <img src="/assets/img/ratings/rating-5_0.png" alt="Rating - 5 of 5 stars">
+                    </picture>
+                </div>
+                <p>Taste of the Wild</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="zignature" data-position="10">
+            <a href="/brands/zignature-7768">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/top-rated/zignature.20170710.jpg" alt="Zignature">
+                </div>
+                <div class="cw-stars">
+                    <picture>
+                        <source type="image/svg+xml" srcset="/assets/img/ratings/rating-5_0.svg">
+                        <img src="/assets/img/ratings/rating-5_0.png" alt="Rating - 5 of 5 stars">
+                    </picture>
+                </div>
+                <p>Zignature</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="the-honest-kitchen" data-position="11">
+            <a href="/brands/the-honest-kitchen-7590">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/top-rated/the-honest-kitchen.20180423.jpg" alt="The Honest Kitchen">
+                </div>
+                <div class="cw-stars">
+                    <picture>
+                        <source type="image/svg+xml" srcset="/assets/img/ratings/rating-5_0.svg">
+                        <img src="/assets/img/ratings/rating-5_0.png" alt="Rating - 5 of 5 stars">
+                    </picture>
+                </div>
+                <p>The Honest Kitchen</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="solid-gold" data-position="12">
+            <a href="/brands/solid-gold-7536">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/top-rated/solid-gold.20180215.jpg" alt="Solid Gold">
+                </div>
+                <div class="cw-stars">
+                    <picture>
+                        <source type="image/svg+xml" srcset="/assets/img/ratings/rating-5_0.svg">
+                        <img src="/assets/img/ratings/rating-5_0.png" alt="Rating - 5 of 5 stars">
+                    </picture>
+                </div>
+                <p>Solid Gold</p>
+            </a>
+        </li>
+    </ul>
+</section>
+
+<section class="cw-slider cw-home-carrousel customer-favorites js-customer-favorites-carousel" data-ga-label="home-customer-favorites">
+    <h2 class="home-head">Customer Favorites</h2>
+    <ul>
+        <li class="js-banner" data-promo-creative="wet-food-1840" data-position="1">
+            <a href="/b/wet-food-1840">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/customer-favorites/wet-food.20181107.jpg" alt="Wet Food">
+                </div>
+                <p>Wet Food</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="prescription-food-1841" data-position="2">
+            <a href="/b/prescription-food-1841">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/customer-favorites/prescription-food.20180226.jpg" alt="Prescription Food" />
+                </div>
+                <p>Prescription Food</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="litter-accessories-410" data-position="3">
+            <a href="/b/litter-accessories-410">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/customer-favorites/litter.20170621.jpg" alt="Litter">
+                </div>
+                <p>Litter</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="pet-treats-1762" data-position="4">
+            <a href="/b/pet-treats-1762">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/customer-favorites/dog-treats.20170925.jpg" alt="Dog Treats">
+                </div>
+                <p>Treats</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="pet-vitamins-supplements-1789" data-position="5">
+            <a href="/b/pet-vitamins-supplements-1789">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/customer-favorites/suplements.20160816.jpg" alt="Supplements">
+                </div>
+                <p>Supplements</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="pet-dental-chews-1888" data-position="6">
+            <a href="/b/pet-dental-chews-1888">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/customer-favorites/dental-chews.20180117.jpg" alt="Dental Chews">
+                </div>
+                <p>Dental Chews</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="pet-flea-tick-1866" data-position="7">
+            <a href="/b/pet-flea-tick-1866">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/customer-favorites/flea-tick.20190211.jpg" alt="Flea and Tick">
+                </div>
+                <p>Flea and Tick</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="pet-toys-1822" data-position="8">
+            <a href="/b/pet-toys-1822">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/customer-favorites/toys.20160816.jpg" alt="Toys">
+                </div>
+                <p>Toys</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="freeze-dried-food-1842" data-position="9">
+            <a href="/b/freeze-dried-food-1842">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/customer-favorites/freeze-dried.20180226.jpg" alt="Freeze-Dried">
+                </div>
+                <p>Freeze-Dried</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="bully-sticks-dog-chews-1543" data-position="10">
+            <a href="/b/bully-sticks-dog-chews-1543">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/customer-favorites/bully-sticks.20160816.jpg" alt="Bully Sticks">
+                </div>
+                <p>Bully Sticks</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="dehydrated-food-1844" data-position="11">
+            <a href="/b/dehydrated-food-1844">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/customer-favorites/dehydrated.20181004.jpg" alt="Dehydrated">
+                </div>
+                <p>Dehydrated</p>
+            </a>
+        </li>
+        <li class="js-banner" data-promo-creative="antler-dog-chews-1541" data-position="12">
+            <a href="/b/antler-dog-chews-1541">
+                <div class="carrousel-img">
+                    <img src="/assets/img/home/customer-favorites/antlers.20160816.jpg" alt="Antlers">
+                </div>
+                <p>Antlers</p>
+            </a>
+        </li>
+    </ul>
+</section>
+
+<section class="brands-in-stock js-1000-brands-carousel" data-ga-label="home-1000-plus-brands">
+    <h2 class="home-head js-banner" data-promo-creative="shop-all-brands-link" data-position="13">
+        1000+ Brands in Stock!
+    </h2>
+    <a href="/brands"><span class="view-all">Shop All Brands</span></a>
+    <ul>
+        <li class="js-banner" data-promo-creative="blue-buffalo" data-position="1">
+            <a href="/brands/blue-buffalo-6526"><img src="/assets/img/home/brands/blue-buffalo.20160406.png" alt="Blue Buffalo" /></a>
+        </li>
+        <li class="js-banner" data-promo-creative="hills-science-diet" data-position="2">
+            <a href="/brands/hills-science-diet-6899"><img src="/assets/img/home/brands/hills.20180417.png" alt="Hills Science Diet" /></a>
+        </li>
+        <li class="js-banner" data-promo-creative="royal-canin" data-position="3">
+            <a href="/brands/royal-canin-7487"><img src="/assets/img/home/brands/royal-canin.20160428.png" alt="Royal Canin" /></a>
+        </li>
+        <li class="js-banner" data-promo-creative="wellness" data-position="4">
+            <a href="/brands/wellness-7724"><img src="/assets/img/home/brands/wellness.20160406.png" alt="Wellness" /></a>
+        </li>
+        <li class="js-banner" data-promo-creative="natural-balance" data-position="5">
+            <a href="/brands/natural-balance-7081"><img src="/assets/img/home/brands/natural-balance.20160406.png" alt="Natural Balance" /></a>
+        </li>
+        <li class="js-banner" data-promo-creative="taste-of-the-wild" data-position="6">
+            <a href="/brands/taste-of-the-wild-7576"><img src="/assets/img/home/brands/taste-wild.20170119.png" alt="Taste of the Wild" /></a>
+        </li>
+        <li class="js-banner" data-promo-creative="merrick" data-position="7">
+            <a href="/brands/merrick-7048"><img src="/assets/img/home/brands/merrick.20160406.png" alt="Merrick" class="row-2-first"/></a>
+        </li>
+        <li class="js-banner" data-promo-creative="greenies" data-position="8">
+            <a href="/brands/greenies-6812"><img src="/assets/img/home/brands/greenies.20160406.png" alt="Greenies" /></a>
+        </li>
+        <li class="js-banner" data-promo-creative="nutro" data-position="9">
+            <a href="/brands/nutro-7138"><img src="/assets/img/home/brands/nutro.20170406.png" alt="Nutro" /></a>
+        </li>
+        <li class="js-banner" data-promo-creative="instinct" data-position="10">
+            <a href="/brands/instinct-7099"><img src="/assets/img/home/brands/natures-variety.20170510.png" alt="Instinct" /></a>
+        </li>
+        <li class="js-banner" data-promo-creative="earthborn-holistic" data-position="11">
+            <a href="/brands/earthborn-holistic-6702"><img src="/assets/img/home/brands/earthborn-holistic.20180117.jpg" alt="Earthborn Holistic" /></a>
+        </li>
+        <li class="js-banner" data-promo-creative="victor" data-position="12">
+            <a href="/brands/victor-7682"><img src="/assets/img/home/brands/victor.20170830.png" alt="Victor" /></a>
+        </li>
+    </ul>
+</section>
+
+<section class="puppy-kitten">
+    <div class="puppy-kitten-img-left">
+        <img src="/assets/img/puppy-kitten/products.20181005.jpg" alt="" />
+    </div>
+    <div class="puppy-kitten-content">
+        <h2 class="home-head">New Puppy or Kitten?</h2>
+        <p>Find everything you need to welcome them home!</p>
+        <a href="/app/content/puppy">shop puppy</a>
+        <span></span>
+        <a href="/app/content/kitten">shop kitten</a>
+    </div>
+    <div class="puppy-kitten-img-right">
+        <img src="/assets/img/puppy-kitten/puppy-kitten.jpg" alt="" />
+    </div>
+</section>
+
+<section class="cw-slider cw-home-carrousel watch-learn">
+    <h2 class="home-head">Watch and Learn</h2>
+    <ul class="watch-learn__list js-draggable-on-desktop">
+        <li class="cw-card cw-card-hover">
+          <div class="watch-learn__vid-container">
+            <div class="wistia_embed es7368mrdn wistia_async_es7368mrdn popover=true popoverContent=html videoFoam=true popoverPreventScroll=true hls=true autoPlay=true settingsControl=false wmode=transparent preload=false endVideoBehavior=reset popoverCaption=How%20To%20Give%20Pets%20Their%20Medication playerColor=000000">
+              <div class="wistia_embed__wrapper trigger-video"
+                   title="How To Give Pets Their Medication">
+                <div class="img-wrap">
+                  <img src="/assets/img/video-placeholder/pharmacy-poster.20181205.jpg" alt="How To Give Pets Their Medication">
+                  <span class="video-play trigger-video"></span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <p class="watch-learn__copy">How To Give Pets Their Medication</p>
+          <a class="cw-home-alt" href="/b/pharmacy-2515">Shop Pharmacy</a>
+        </li>
+        <li class="cw-card cw-card-hover">
+          <div class="watch-learn__vid-container">
+            <div class="wistia_embed 6qdb3ygpc1 wistia_async_6qdb3ygpc1 popover=true popoverContent=html videoFoam=true popoverPreventScroll=true hls=true autoPlay=true settingsControl=false wmode=transparent preload=false endVideoBehavior=reset popoverCaption=How%20to%20Transition%20Your%20Kitten%20from%20Wet%20to%20Dry%20Food playerColor=000000">
+              <div class="wistia_embed__wrapper trigger-video"
+                   title="How to Transition Your Kitten from Wet to Dry Food">
+                <div class="img-wrap">
+                  <img src="/assets/img/video-placeholder/royalcanin.20181205.jpg" alt="How to Transition Your Kitten from Wet to Dry Food">
+                  <span class="video-play trigger-video"></span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <p class="watch-learn__copy">How to Transition Your Kitten from Wet to Dry Food</p>
+          <a class="cw-home-alt" href="/s?rh=c%3A325%2Cc%3A387%2Cc%3A388%2CLifestage%3AKitten">Shop Dry Kitten Food</a>
+        </li>
+
+        <li class="cw-card cw-card-hover">
+            <div class="watch-learn__vid-container">
+                <div class="wistia_embed nzcqkxzvsx wistia_async_nzcqkxzvsx popover=true popoverContent=html videoFoam=true popoverPreventScroll=true hls=true autoPlay=true settingsControl=false wmode=transparent preload=false endVideoBehavior=reset popoverCaption=Is%20there%20an%20easy%20way%20to%20feed%20my%20dog%20a%20raw%20diet? playerColor=000000">
+                    <div class="wistia_embed__wrapper trigger-video"
+                         title="Is there an easy way to feed my dog a raw diet?">
+                        <div class="img-wrap">
+                            <img src="/assets/img/video-placeholder/is-there-an-easy-way-to-feed-my-dog-a-raw-diet.jpg" alt="Is there an easy way to feed my dog a raw diet?">
+                            <span class="video-play trigger-video"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <p class="watch-learn__copy">Is there an easy way to feed my dog a raw diet?</p>
+            <a class="cw-home-alt" href="/s?rh=c%3A332%2Cfreeze-dried-food">Shop Freeze-Dried</a>
+        </li>
+        <li class="cw-card cw-card-hover">
+            <div class="watch-learn__vid-container">
+                <div class="wistia_embed lx12kupbr3 wistia_async_lx12kupbr3 popover=true popoverContent=html videoFoam=true popoverPreventScroll=true hls=true autoPlay=true settingsControl=false wmode=transparent preload=false endVideoBehavior=reset popoverCaption=What%20are%20the%20benefits%20of%20feeding%20my%20dog%20a%20grain-free%20diet? playerColor=000000">
+                    <div class="wistia_embed__wrapper trigger-video"
+                         title="What are the benefits of feeding my dog a grain-free diet?">
+                        <div class="img-wrap">
+                            <img src="/assets/img/video-placeholder/what-are-the-benefits-of-a-grain-free-diet.jpg" alt="What are the benefits of a grain-free diet?">
+                            <span class="video-play"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <p class="watch-learn__copy">What are the benefits of feeding my dog a grain-free diet?</p>
+            <a class="cw-home-alt" href="/s?rh=c%3A332%2Cgrain-free">Shop Grain-Free</a>
+        </li>
+        <li class="cw-card cw-card-hover">
+            <div class="watch-learn__vid-container">
+                <div class="wistia_embed dqybu0o96r wistia_async_dqybu0o96r popover=true popoverContent=html videoFoam=true popoverPreventScroll=true hls=true autoPlay=true settingsControl=false wmode=transparent preload=false endVideoBehavior=reset popoverCaption=How%20can%20I%20manage%20my%20dog's%20weight? playerColor=000000">
+                    <div class="wistia_embed__wrapper trigger-video">
+                        <div class="img-wrap">
+                            <img src="/assets/img/video-placeholder/how-can-i-manage-my-dogs-weight.jpg" alt="How can I manage my dog's weight?">
+                            <span class="video-play"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <p class="watch-learn__copy">How can I manage my dog's weight?</p>
+            <a class="cw-home-alt" href="/s?rh=c%3A332%2Cweight-control">Shop Weight Management</a>
+        </li>
+        <li class="cw-card cw-card-hover">
+            <div class="watch-learn__vid-container">
+                <div class="wistia_embed n7t64buiiv wistia_async_n7t64buiiv popover=true popoverContent=html videoFoam=true popoverPreventScroll=true hls=true autoPlay=true settingsControl=false wmode=transparent preload=false endVideoBehavior=reset popoverCaption=What%20are%20the%20benefits%20of%20dehydrated%20pet%20food? playerColor=000000">
+                    <div class="wistia_embed__wrapper trigger-video">
+                        <div class="img-wrap">
+                            <img src="/assets/img/video-placeholder/dehydrated-food.20180802.jpg" alt="What are the benefits of dehydrated pet food?">
+                            <span class="video-play"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <p class="watch-learn__copy">What are the benefits of dehydrated pet food?</p>
+            <a class="cw-home-alt" href="/b/dehydrated-food-1844">Shop Dehydrated</a>
+        </li>
+        <li class="cw-card cw-card-hover">
+            <div class="watch-learn__vid-container">
+                <div class="wistia_embed e48x5rxuvk wistia_async_e48x5rxuvk popover=true popoverContent=html videoFoam=true popoverPreventScroll=true hls=true autoPlay=true settingsControl=false wmode=transparent preload=false endVideoBehavior=reset popoverCaption=How%20do%20I%20get%20rid%20of%20and%20prevent%20fleas%20and%20ticks? playerColor=000000">
+                    <div class="wistia_embed__wrapper trigger-video">
+                        <div class="img-wrap">
+                            <img src="/assets/img/video-placeholder/flea-and-tick.20180312.jpg" alt="How do I get rid of and prevent fleas &amp; ticks?">
+                            <span class="video-play"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <p class="watch-learn__copy">How do I get rid of and prevent fleas &amp; ticks?</p>
+            <a class="cw-home-alt" href="/b/flea-tick-381">Shop Flea &amp; Tick</a>
+        </li>
+        <li class="cw-card cw-card-hover">
+            <div class="watch-learn__vid-container">
+                <div class="wistia_embed vvj5evv0b9 wistia_async_vvj5evv0b9 popover=true popoverContent=html videoFoam=true popoverPreventScroll=true hls=true autoPlay=true settingsControl=false wmode=transparent preload=false endVideoBehavior=reset popoverCaption=How%20do%20I%20keep%20my%20pet%20from%20getting%20bored%20with%20their%20food? playerColor=000000">
+                    <div class="wistia_embed__wrapper trigger-video">
+                        <div class="img-wrap">
+                            <img src="/assets/img/video-placeholder/rotational-diet.20180206.jpg" alt="How do I keep my pet from getting bored with their food?">
+                            <span class="video-play"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <p class="watch-learn__copy">How do I keep my pet from getting bored with their food?</p>
+            <a class="cw-home-alt" href="/b/food-treats-332">Shop Food &amp; Treats</a>
+        </li>
+        <li class="cw-card cw-card-hover">
+            <div class="watch-learn__vid-container">
+                <div class="wistia_embed 6y3bv7044z wistia_async_6y3bv7044z popover=true popoverContent=html videoFoam=true popoverPreventScroll=true hls=true autoPlay=true settingsControl=false wmode=transparent preload=false endVideoBehavior=reset popoverCaption=Is%20your%20cat%20getting%20enough%20moisture%20from%20their%20diet? playerColor=000000">
+                    <div class="wistia_embed__wrapper trigger-video" title="Is your cat getting enough moisture from their diet?" data-modal-target="home-videos" data-wid="6y3bv7044z">
+                        <div class="img-wrap">
+                            <img src="/assets/img/video-placeholder/cat-moisture.jpg" alt="Is your cat getting enough moisture from their diet?">
+                            <span class="video-play"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <p class="watch-learn__copy">Is your cat getting enough moisture from their diet?</p>
+            <a class="cw-home-alt" href="/b/wet-food-389">Shop Wet Food</a>
+        </li>
+    </ul>
+</section>
+</article>
+        
+    
+
+</div>
+    </main>
+
+            <footer class="footer-main">
+
+    <section class="footer-contact">
+        <div class="container">
+            <ul>
+                <li><strong><span>Our</span> <span class="visible-desktop">experts</span> <span>are</span> <span class="visible-desktop">available 24/7:</span></strong></li>
+                <li class="icon-phone-w"><span>1-800-672-4399</span></li>
+                <li>
+                    <div id="chewyChatLinkContainer--footer" class="js-chewyChatLinkContainer">
+                            <div id="chewyChatLink--footer" class="js-chewyChatLink">
+                                <div id="chewyChatLinkInfo--footer" class="js-chewyChatLinkInfo">
+                                    <div class="footer-contact__icon icon-chat-w"><span>chat now</span></div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                <li><a href="/app/content/contact" class="icon-email-w footer-contact__icon"><span>email us</span></a></li>
+            </ul>
+            <a href="#header-main" class="to-top"><span class="hidden-desktop">back to</span> top</a>
+        </div>
+    </section>
+    <div class="footer-content">
+        <div class="container">
+            <section class="footer-links">
+                <ul>
+                    <li><a href="/app/content/about-us">About</a></li>
+                    <li><a href="/app/account" rel="nofollow">Account</a></li>
+                    <li><a href="/petcentral">Blog</a></li>
+                    <li><a href="/app/content/faq">FAQs</a></li>
+                    <li><a href="/jobs">Jobs</a></li>
+                    <li><a href="/gift-guide">Gift Guide</a></li>
+                    <li><a href="/app/account/pets">My Pets</a></li>
+                    <li><a href="/app/content/affiliate">Affiliates</a></li>
+                </ul>
+            </section>
+            <section class="footer-badges">
+                <div class="footer-social">
+                    <ul>
+                        <li><a target="_blank" href="http://www.facebook.com/chewy" class="icon-fb">Facebook</a></li>
+                        <li><a target="_blank" href="https://www.youtube.com/channel/UCpWl2nwLDQQI4TTa1kJgxrg" class="icon-yt">YouTube</a></li>
+                        <li><a target="_blank" href="http://instagram.com/chewy" class="icon-ig">Instagram</a></li>
+                        <li><a target="_blank" href="http://twitter.com/chewy" class="icon-tw">Twitter</a></li>
+                    </ul>
+                </div>
+                <div id="GTS_CONTAINER" class="gts-badge"></div>
+                </section>
+        </div>
+    </div>
+    <section class="footer-copyright">
+        <div class="container footer-copyright__container">
+            <div class="footer-copyright__container__rx">
+              <a href="https://www.safe.pharmacy/buying-safely/" target="_blank">
+                <img alt="Pharmacy Verified" class="footer-copyright__pharmacy" src="/assets/img/icons/pharmacy/pharmacy.jpg" width="118" height="34"/>
+              </a>
+              <a href="https://www.legitscript.com/websites/?lookup_type=website_search&website=chewy.com&product" target="_blank">
+                <img alt="Legitscript Approved" class="footer-copyright__legitscript" src="/assets/img/icons/pharmacy/legitscript.png" width="57" height="41" />
+              </a>
+            </div>
+            <div class="footer-copyright__container-app-buttons">
+                <a class="apple" href="https://itunes.apple.com/us/app/chewy-where-pet-lovers-shop/id1149449468" target="_blank"><img alt="Download on the App Store" src="/assets/img/icons/apple-store-badge.jpg"/></a>
+                <a class="google" href="https://play.google.com/store/apps/details?id=com.chewy.android&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1" target="_blank"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"/></a>
+            </div>
+            <div class="footer-copyright__container__rx">
+                <ul>
+                    <li>Copyright &copy; 2019 Chewy, Inc.</li>
+                    <li><a href="/app/content/terms">Terms of Use</a></li>
+                    <li><a href="/app/content/privacy">Privacy Policy</a></li>
+                    <li><a href="/app/content/privacy#cms-privacy__cookies">Interest-Based Ads</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+</footer>
+<div class="deferred-scripts">
+        <script src="/assets/js/vendor/jquery/jquery.bxslider.4.2.12-ch.2.3.min.js"></script>
+        <script src="/assets/js/cw-modal.1f1e119d05ea3e6b01cc.packaged.js"></script>
+        <script src="/assets/js/vendors.73321fb5eaf7ecc71805.packaged.js" ></script>
+        <script src="/assets/js/common-desktop.fce711adc8fccf9f12e2.packaged.js" ></script>
+        <script src="/assets/js/d-home.f33cfba1c3f88d41637c.packaged.js" ></script>
+        <script src="/assets/js/homepageAnalytics.a51c596ff99a74f599a7.packaged.js" ></script>
+        <script src="/assets/js/home.ec307f7441d4027892b9.packaged.js" ></script>
+
+        <script src="//fast.wistia.net/embed/medias/nzcqkxzvsx.jsonp" async></script>
+        <script src="//fast.wistia.net/assets/external/E-v1.js" async ></script>
+
+        <!-- BEGIN criteo -->
+        <script src="//static.criteo.net/js/ld/ld.js"></script>
+        <script>
+            window.criteo_q = window.criteo_q || [];
+            var deviceType = true;
+            switch (deviceType) {
+            case (/Android/.test(navigator.userAgent)) : deviceType = 'Android'; break; case (/iPhone/.test(navigator.userAgent)) : deviceType = 'iPhone'; break; case (/iPad/.test(navigator.userAgent)) : deviceType = 'iPad'; break; default : deviceType = 'desktop';}
+            window.criteo_q.push(
+              { event: "setAccount", account: 5494},
+              
+              { event: "setData", ui_device: deviceType},
+              { event: "viewHome"}
+            );
+        </script>
+        <!-- END criteo -->
+    <script>
+
+  $.ajax({
+    url: 'https://chewy.widget.custhelp.com/euf/rightnow/RightNow.Client.js',
+    dataType: 'script',
+    cache: true, //default for script is false
+    success: function(){
+      if (typeof RightNow !== 'undefined'){
+
+        $(function(){
+
+          $('.js-chewyChatLinkContainer').each(function(index, el) {
+            var rightNowChatContainer = $(el);
+
+            RightNow.Client.Controller.addComponent(
+              {
+                chat_login_page: "/app/chat/chat_launch",
+                chat_login_page_height: 560,
+                chat_login_page_width: 500,
+                container_element_id: rightNowChatContainer.id,
+                link_element_id: rightNowChatContainer.find('.js-chewyChatLink').attr('id'),
+                info_element_id: rightNowChatContainer.find('.js-chewyChatLinkInfo').attr('id'),
+                instance_id: "sccl_" + index,
+                min_sessions_avail: 0,
+                wait_threshold: 1800,
+                enable_availability_check: true,
+                enable_polling: false,
+                open_in_new_window: true,
+                label_available_immediately_template: "",
+                label_available_with_wait_template: "",
+                label_default: "",
+                label_unavailable_busy_template: "",
+                label_unavailable_hours: "",
+                module: "ConditionalChatLink",
+                type: 7
+              },
+              "https://chewy.widget.custhelp.com/ci/ws/get"
+            );
+            RightNow.Client.Event.evt_widgetLoaded.subscribe(chatWidgetLoaded);
+            function chatWidgetLoaded(type, args) {
+              if (args[0].name === "ConditionalChatLink" && args[0].id === "sccl_" + index)
+              {
+                var eventObj = new RightNow.Client.EventObject(args[0].name, args[0].id);
+                eventObj.data = {
+                  customFields: {
+                    // CustomField "139" for "referrer_url2"
+                    "139": window.location.href.replace(/(^\w+:|^)\/\//, '') // removes protocol from url
+                  }
+                  
+                };
+                RightNow.Client.Event.evt_updateWidgetData.fire(eventObj);
+              }
+            }
+          });
+
+        });
+
+      }
+    }
+  });
+</script>
+<!-- BEGIN: Google Trusted Stores -->
+<script>
+
+  // do not trigger GTS inclusion in non-prod environments to prevent 404
+  if(window.chewyConf.environment === 'production'){
+    var gts = gts || [];
+
+    gts.push(["id", "483342"]);
+    gts.push(["badge_position", "USER_DEFINED"]);
+    gts.push(["badge_container", "GTS_CONTAINER"]);
+    gts.push(["locale", "en_US"]);
+    
+    gts.push(["google_base_country", "US"]);
+    gts.push(["google_base_language", "en"]);
+
+    (function() {
+      var gts = document.createElement("script");
+      gts.async = true;
+      gts.src = "https://www.googlecommerce.com/trustedstores/api/js";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(gts, s);
+    })();
+  } else {
+    //the fallback is to preserve layout structure across prod/non-prod
+    $('#GTS_CONTAINER').append('<div id="___ratingbadge_0" style="text-indent: 0; margin: 0; padding: 0; background: transparent; border-style: none; float: none; line-height: normal; font-size: 1px; vertical-align: baseline; display: inline-block; width: 165px; height: 54px;">');
+
+  }
+
+</script>
+<!-- END: Google Trusted Stores -->
+</div>
+
+    <script type="text/javascript">var _cf = _cf || []; _cf.push(['_setFsp', true]); _cf.push(['_setBm', true]); _cf.push(['_setAu', '/assets/3cce33b123426cecf058004652a4']);</script><script type="text/javascript" src="/assets/3cce33b123426cecf058004652a4"></script></body>
+</html>
+
+<!-- 2019-04-11T01:46:02Z IAD1GSFW11.ecom.chewy.com v=master-1316 rid=1ebbe579,03-5CAE9C5A-4A570B64 sid= cid=-1002 uid=-1002 res_time=7 -->
