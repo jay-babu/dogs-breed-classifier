@@ -7,8 +7,6 @@ from image_avg_size import width_height_of_images
 from keras import optimizers
 from keras.applications import VGG16
 from keras.preprocessing.image import ImageDataGenerator
-from keras.utils.np_utils import to_categorical
-import pickle
 import plaidml.keras
 
 
@@ -55,6 +53,9 @@ class DogBreedTraining:
 
         self.train_generator = None
         self.validation_generator = None
+        self.test_datagen = None
+
+        self.history = None
 
     def directory_init(self):
         self.train_bulldog_dir = os.path.join(self.train_dir, self.bulldog)
@@ -76,8 +77,16 @@ class DogBreedTraining:
         self.test_poodle_dir = os.path.join(self.test_dir, self.poodle)
 
     def image_data_gen(self):
-        train_datagen = ImageDataGenerator(rescale=1. / 255)
-        test_datagen = ImageDataGenerator(rescale=1. / 255)
+        train_datagen = ImageDataGenerator(rescale=1. / 255,
+                                           rotation_range=50,
+                                           width_shift_range=0.2,
+                                           height_shift_range=0.2,
+                                           shear_range=0.2,
+                                           zoom_range=0.2,
+                                           horizontal_flip=True,
+                                           fill_mode='nearest')
+        validation_datagen = ImageDataGenerator(rescale=1. / 255)
+        self.test_datagen = ImageDataGenerator(rescale=1. / 255)
 
         self.train_generator = train_datagen.flow_from_directory(
             self.train_dir,
@@ -86,7 +95,7 @@ class DogBreedTraining:
             class_mode='categorical'
         )
 
-        self.validation_generator = test_datagen.flow_from_directory(
+        self.validation_generator = validation_datagen.flow_from_directory(
             self.validation_dir,
             target_size=(self.avg_width, self.avg_height),
             batch_size=20,
@@ -96,6 +105,45 @@ class DogBreedTraining:
     def dogs_breed_modeling(self):
         model = models.Sequential()
         model.add(self.conv_base)
+        print(model.summary())
         model.add(layers.Flatten())
         model.add(layers.Dense(256, activation='relu'))
         model.add(layers.Dense(5, activation='softmax'))
+
+        print(model.summary())
+
+        model.compile(loss='categorical_crossentropy',
+                      optimizer=optimizers.Adam(),
+                      metrics=['accuracy'])
+
+        self.history = model.fit_generator(
+            self.train_generator,
+            steps_per_epoch=100,
+            epochs=30,
+            validation_data=self.validation_generator,
+            validation_steps=50
+        )
+
+        model.save('dogs_breed_1.h5')
+
+    def results(self):
+        acc = self.history.history['acc']
+        val_acc = self.history.history['val_acc']
+        loss = self.history.history['loss']
+        val_loss = self.history.history['val_loss']
+
+        epochs = range(1, len(acc) + 1)
+
+        plt.plot(epochs, acc, 'bo', label='Training acc')
+        plt.plot(epochs, val_acc, 'b', label='Validation acc')
+        plt.title('Training and validation accuracy')
+        plt.legend()
+
+        plt.figure()
+
+        plt.plot(epochs, loss, 'bo', label='Training loss')
+        plt.plot(epochs, val_loss, 'b', label='Validation loss')
+        plt.title('Training and validation loss')
+        plt.legend()
+
+        plt.show()
