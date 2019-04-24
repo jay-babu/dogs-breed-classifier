@@ -77,14 +77,7 @@ class DogBreedTraining:
         self.test_poodle_dir = os.path.join(self.test_dir, self.poodle)
 
     def image_data_gen(self):
-        train_datagen = ImageDataGenerator(rescale=1. / 255,
-                                           rotation_range=50,
-                                           width_shift_range=0.2,
-                                           height_shift_range=0.2,
-                                           shear_range=0.2,
-                                           zoom_range=0.2,
-                                           horizontal_flip=True,
-                                           fill_mode='nearest')
+        train_datagen = ImageDataGenerator(rescale=1. / 255)
         validation_datagen = ImageDataGenerator(rescale=1. / 255)
         self.test_datagen = ImageDataGenerator(rescale=1. / 255)
 
@@ -147,3 +140,11 @@ class DogBreedTraining:
         plt.legend()
 
         plt.show()
+
+
+if __name__ == '__main__':
+    dogs = DogBreedTraining('../static/data')
+    dogs.directory_init()
+    dogs.image_data_gen()
+    dogs.dogs_breed_modeling()
+    dogs.results()
