@@ -181,8 +181,8 @@ The code above goes over various benefits of using convnets and the reason why t
 The images shows how it filters are used to learn about the image. As more layers are added to the model, it starts using more filters to learn more and more details about the data.
 
 ###### Section 5.2
-I have linked my Jupyter Notebook below to show what was done for this section. 
-[Training a convnet on a small dataset]()
+I have linked my Jupyter Notebook to show what was done for this section. 
+[Training a convnet on a small dataset](https://github.com/jayp0521/dogs-breed-classifier/blob/dev/app/convnets_on_small_datasets.ipynb)
 
 # **Dogs Breed Classifier**
 
