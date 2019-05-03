@@ -177,7 +177,7 @@ test_loss, test_acc = model.evaluate(test_images, test_labels)
 
 The code above goes over various benefits of using convnets and the reason why they are used the most within computer vision. Whereas the densely connected network from chapter 2 had a test accuracy of 97.8%, the basic convnet has a test accuracy of 99.3%: we decreased the error rate by 68% (relative).
 
-![Convolution Filtering](README_images/Convolution_Filtering.png)
+![Convolution Filtering](README_Images/Convolution_Filtering.png)
 
 The images shows how it filters are used to learn about the image. As more layers are added to the model, it starts using more filters to learn more and more details about the data.
 
@@ -425,7 +425,7 @@ The code for it goes as follows:
             validation_steps=100
         )
 ```
-![Breed Part 3 Accuracy](README_images/Breed Part 3 Accuracy.png)![Breed Part 3 Loss](README_images/Breed Part 3 Loss.png)
+![Breed Part 3 Accuracy](README_Images/Breed Part 3 Accuracy.png)![Breed Part 3 Loss](README_Images/Breed Part 3 Loss.png)
 
 I thought I did not have enough steps and/or epochs for my model, which is why I increased it. Since I had a lot of
 data, I thought I would need a lot more epochs to train the entire model. I used data augmentation in my training to create 
