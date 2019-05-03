@@ -3,7 +3,6 @@ import shutil
 
 
 def organizer():
-    print(os.getcwd())
     # os.chdir("/Users/Jay/Desktop/Dogs/DogsBreedClassifier/")
     original_dataset_dir = 'static'
 

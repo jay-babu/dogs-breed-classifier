@@ -24,5 +24,10 @@ def copier():
     return "Files have been copied successfully and folder has been moved"
 
 
+@app.route('/model_dog_trainer')
+def training():
+    pass
+
+
 if __name__ == '__main__':
     app.run()
