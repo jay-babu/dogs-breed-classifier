@@ -1,4 +1,5 @@
 # **Deep Learning With Python**
+[Original Model Training Notebook](dogs_breed_VGG16.ipynb)\
 The book I used to learn more about Machine Learning and, more specifically, Keras. I read the entire book, but will discuss the more important chapters in summary and the most important chapter in greater detail.
 
 ### **Chapter 2**
