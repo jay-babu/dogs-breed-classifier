@@ -425,7 +425,7 @@ The code for it goes as follows:
             validation_steps=100
         )
 ```
-![Breed Part 3 Accuracy](README_Images/Breed Part 3 Accuracy.png)![Breed Part 3 Loss](README_Images/Breed Part 3 Loss.png)
+![Breed Part 3 Accuracy](README_Images/Breed Part 3 Accuracy.png) ![Breed Part 3 Loss](README_Images/Breed Part 3 Loss.png)
 
 I thought I did not have enough steps and/or epochs for my model, which is why I increased it. Since I had a lot of
 data, I thought I would need a lot more epochs to train the entire model. I used data augmentation in my training to create 
