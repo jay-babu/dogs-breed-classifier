@@ -302,3 +302,182 @@ Flow_from_directory has these parameters:
             class_mode='categorical'
         )
 ```
+
+#### Dog Breeds Modeling
+This section goes over the various different models that were created in order to test and obtain a good one.
+I used many different techniques as well as optimizers to test and find out, which one worked best. I learned that since
+I was working with a lot of data, I would be able to use a smaller learning and rate, as well as less steps per epoch to
+obtain a good model.
+
+The code for it goes as follows:
+```python
+    def dogs_breed_modeling(self):
+        model = models.Sequential()
+        model.add(self.conv_base)
+        model.summary()
+        model.add(layers.Flatten())
+        model.add(layers.Dense(256, activation='relu'))
+        model.add(layers.Dense(5, activation='softmax'))
+        
+        print('This is the number of trainable weights ' 'before freezing the conv base:', len(model.trainable_weights))
+        self.conv_base.trainable = False
+        print('This is the number of trainable weights ' 'after freezing the conv base:', len(model.trainable_weights))
+        
+        model.summary()
+
+        model.compile(loss='categorical_crossentropy',
+                      optimizer=optimizers.Adam(),
+                      metrics=['accuracy'])
+
+        self.history = model.fit_generator(
+            self.train_generator,
+            steps_per_epoch=100,
+            epochs=30,
+            validation_data=self.validation_generator,
+            validation_steps=50
+        )
+
+        model.save('dogs_breed_1.h5')
+    
+    def dogs_breed_modeling_part_2(self):
+        model = models.Sequential()
+        model.add(self.conv_base)
+        model.summary()
+        model.add(layers.Flatten())
+        model.add(layers.Dense(256, activation='relu'))
+        model.add(layers.Dense(5, activation='softmax'))
+        
+        print('This is the number of trainable weights ' 'before freezing the conv base:', len(model.trainable_weights))
+        self.conv_base.trainable = False
+        print('This is the number of trainable weights ' 'after freezing the conv base:', len(model.trainable_weights))
+        
+        model.summary()
+
+        model.compile(loss='categorical_crossentropy',
+                      optimizer=optimizers.Adam(),
+                      metrics=['accuracy'])
+
+        self.history = model.fit_generator(
+            self.train_generator,
+            steps_per_epoch=200,
+            epochs=100,
+            validation_data=self.validation_generator,
+            validation_steps=75
+        )
+
+        model.save('dogs_breed_2.h5')
+        
+    def dogs_breed_modeling_part_3(self):
+        model = models.Sequential()
+        model.add(self.conv_base)
+        model.summary()
+        model.add(layers.Flatten())
+        model.add(layers.Dense(256, activation='relu'))
+        model.add(layers.Dense(5, activation='softmax'))
+        
+        print('This is the number of trainable weights ' 'before freezing the conv base:', len(model.trainable_weights))
+        self.conv_base.trainable = False
+        print('This is the number of trainable weights ' 'after freezing the conv base:', len(model.trainable_weights))
+        
+        model.summary()
+
+        model.compile(loss='categorical_crossentropy',
+                      optimizer=optimizers.Adam(lr=0.000125, epsilon=None, 
+                                                decay=0.1, amsgrad=False),
+                      metrics=['accuracy'])
+
+        self.history = model.fit_generator(
+            self.train_generator,
+            steps_per_epoch=20,
+            epochs=50,
+            validation_data=self.validation_generator,
+            validation_steps=50
+        )
+
+        model.save('dogs_breed_7.h5')
+    
+    def dogs_breed_modeling_part_4(self):
+        model = models.Sequential()
+        model.add(self.conv_base)
+        model.summary()
+        model.add(layers.Flatten())
+        model.add(layers.Dense(256, activation='relu'))
+        model.add(layers.Dense(5, activation='softmax'))
+        
+        print('This is the number of trainable weights ' 'before freezing the conv base:', len(model.trainable_weights))
+        self.conv_base.trainable = False
+        print('This is the number of trainable weights ' 'after freezing the conv base:', len(model.trainable_weights))
+        
+        model.summary()
+
+        model.compile(loss='categorical_crossentropy',
+                      optimizer=optimizers.Adam(lr=0.00002, beta_1=0.9, 
+                                                beta_2=0.999, epsilon=None, 
+                                                decay=0.5, amsgrad=False),
+                      metrics=['accuracy'])
+
+        self.history = model.fit_generator(
+            self.train_generator,
+            steps_per_epoch=500,
+            epochs=250,
+            validation_data=self.validation_generator,
+            validation_steps=100
+        )
+```
+![Breed Part 3 Accuracy](README_images/Breed Part 3 Accuracy.png)![Breed Part 3 Loss](README_images/Breed Part 3 Loss.png)
+
+I thought I did not have enough steps and/or epochs for my model, which is why I increased it. Since I had a lot of
+data, I thought I would need a lot more epochs to train the entire model. I used data augmentation in my training to create 
+'fake' data that could be trained to extract more features. Each picture looks similar to the orignal, but allows the model
+to learn with it looks like in different views. In reality, I realized that less steps meant
+for a better model. Part 1, Part 2, and Part 4 gave only less than 50 percent accuracy for the test
+and training data. Part 3 is where the true results came out. In this part, I was able to get a 90% accuracy rating,
+which is high. As the image above shows, overtime the accuracy increased without overfitting, and the loss decreased as
+a true machine learning model should. 
+
+#### Evaluating the model
+
+The code belows shows how I evaluated the model results. As you can see, no augmented images were created during testing,
+because we want to ensure that the model is being tested against real world data. The results functions prints out a graph
+of the validation and training accuracy.
+```python
+    def model_evaluate(self):
+        model = load_model('dogs_breed_4 (1).h5')
+        model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
+        # print(model.predict('static/bulldog/1. Regular/91.Regular.png'))
+        test_dir = "static/data/test"
+        test_datagen = ImageDataGenerator(rescale=1./255)
+        test_generator = test_datagen.flow_from_directory(test_dir,
+                                                  target_size=(256, 256),
+                                                  batch_size=20,
+                                                  class_mode='categorical')
+
+        # predict the result
+
+        test_loss, test_acc = model.evaluate_generator(test_generator, steps=50)
+        print(test_loss, test_acc)
+
+    def results(self):
+        acc = self.history.history['acc']
+        val_acc = self.history.history['val_acc']
+        loss = self.history.history['loss']
+        val_loss = self.history.history['val_loss']
+
+        epochs = range(1, len(acc) + 1)
+
+        plt.plot(epochs, acc, 'bo', label='Training acc')
+        plt.plot(epochs, val_acc, 'b', label='Validation acc')
+        plt.title('Training and validation accuracy')
+        plt.legend()
+
+        plt.figure()
+
+        plt.plot(epochs, loss, 'bo', label='Training loss')
+        plt.plot(epochs, val_loss, 'b', label='Validation loss')
+        plt.title('Training and validation loss')
+        plt.legend()
+
+        plt.show()
+```
+
+##### I would like to conclude stating that I believe I have learned a great amount through this book, _Deep Learning with Python_ and believe my model helps depict how my knowledge as increased.
